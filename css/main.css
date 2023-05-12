@@ -1,0 +1,10 @@
+#main{
+    background-color: wheat;
+    width: 75;
+    text-align: center;
+    border-radius: 20px;
+}
+
+p{
+    font-size: 18px;
+}
